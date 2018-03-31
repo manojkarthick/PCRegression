@@ -7,7 +7,7 @@ NUMPY_MIN_VERSION = '1.8.2'
 
 setup(
     name='PCRegression',
-    version='0.1',
+    version='0.1.1',
     author='Karanjit Singh Tiwana, Arin Ghosh, Manoj Karthick',
     author_email='manojkarthick@ymail.com',
     url='https://github.com/manojkarthick/PCRegression',
