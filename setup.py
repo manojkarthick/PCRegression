@@ -10,7 +10,7 @@ setup(
     version='0.1',
     author='Karanjit Singh Tiwana, Arin Ghosh, Manoj Karthick',
     author_email='manojkarthick@ymail.com',
-    # url='https://github.com/manojkarthick/pcr',
+    url='https://github.com/manojkarthick/PCRegression',
     license='MIT License',
     description='Python package for building a principal components regression model using scikit-learn',
     py_modules=['PCRegression'],
