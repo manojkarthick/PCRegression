@@ -8,10 +8,10 @@ This tool has been built with python3. Install from PyPI using pip.
 
 ```shell
 # If Python3 is your default python, use
-$ pip install git-trend
+$ pip install PCRegression
 
 # If Python 3.x is not your primary version of python, then use
-$ pip3 install git-trend 
+$ pip install PCRegression
 ```
 **NOTE**:   You can check your python version using `python -V`.
 
